@@ -11,6 +11,7 @@
 	<groupId>com.hrms</groupId>
 	<artifactId>employee-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>employee-service</name>
 	<description>Employee repository for the HRMS employee management</description>
 	<url/>
